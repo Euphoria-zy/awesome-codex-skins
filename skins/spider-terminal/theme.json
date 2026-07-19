@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 2,
+  "id": "spider-terminal",
+  "name": "Spider-Man: A New Day",
+  "description": "A personal-use Spider-Man film journey through Queens, self-made growth, three generations, responsibility and a brand-new Manhattan dawn.",
+  "version": "0.4.3",
+  "author": {
+    "name": "Euphoria-zy",
+    "url": "https://github.com/Euphoria-zy"
+  },
+  "appearance": "dual",
+  "license": "personal-use",
+  "category": "tech",
+  "css": "theme.css",
+  "chrome": "chrome.html",
+  "previews": [
+    "previews/home.webp",
+    "previews/task.webp"
+  ],
+  "colors": {
+    "midnight": "#071827",
+    "graphite": "#102a3c",
+    "steel": "#8cc8d8",
+    "dawn": "#edf7f7",
+    "ink": "#122431",
+    "scarlet": "#d72a37",
+    "sunrise": "#e3a84e",
+    "lens": "#a6f6ff",
+    "snow": "#f6f9ff",
+    "webline": "rgba(68, 216, 242, .28)"
+  },
+  "strings": {
+    "hero-title": "A NEW DAY BEGINS",
+    "hero-sub": "QUEENS • GROWTH • RESPONSIBILITY • HOME"
+  },
+  "codexTheme": {
+    "appearanceTheme": "dark",
+    "codeThemeIds": {
+      "dark": "absolutely",
+      "light": "absolutely"
+    },
+    "light": {
+      "accent": "#258fa8",
+      "contrast": 64,
+      "ink": "#122431",
+      "opaqueWindows": true,
+      "surface": "#edf7f7",
+      "fonts": {
+        "code": "Cascadia Mono, Consolas, SF Mono",
+        "ui": "Segoe UI Variable, Segoe UI, PingFang SC"
+      },
+      "semanticColors": {
+        "diffAdded": "#23775e",
+        "diffRemoved": "#b91f2c",
+        "skill": "#9a681e"
+      }
+    },
+    "dark": {
+      "accent": "#44d8f2",
+      "contrast": 64,
+      "ink": "#f6f9ff",
+      "opaqueWindows": true,
+      "surface": "#071827",
+      "fonts": {
+        "code": "Cascadia Mono, Consolas, SF Mono",
+        "ui": "Segoe UI Variable, Segoe UI, PingFang SC"
+      },
+      "semanticColors": {
+        "diffAdded": "#63d6ac",
+        "diffRemoved": "#ff6f78",
+        "skill": "#e3a84e"
+      }
+    }
+  },
+  "assets": {
+    "wall": "assets/wall.webp",
+    "sidebar-texture": "assets/sidebar-texture.webp",
+    "guardian-home": "assets/guardian-home-three-spider-men-official-frame.webp",
+    "guardian-task": "assets/guardian-task-iron-spider-v3.webp",
+    "intro": "assets/intro.webp",
+    "intro-city": "assets/intro-city-v2.webp",
+    "composer-deck": "assets/composer-deck.webp",
+    "deck-slim": "assets/deck-slim.webp",
+    "card-homecoming": "assets/card-homecoming-ferry-v3.webp",
+    "card-far-from-home": "assets/card-far-from-home-suit-lab-v3.webp",
+    "card-no-way-home": "assets/card-no-way-home-plan-v5.webp",
+    "card-brand-new-day": "assets/card-brand-new-day-action-v4.webp",
+    "watermark": "assets/watermark.webp",
+    "crest": "assets/crest.webp",
+    "pill": "assets/pill.webp",
+    "web-shooter": "assets/web-shooter.webp",
+    "web-shooter-off": "assets/web-shooter-off.webp",
+    "logo-codex": "assets/logo-codex.webp",
+    "logo-chatgpt": "assets/logo-chatgpt.webp",
+    "logo-chatgpt-work": "assets/logo-chatgpt-work.webp",
+    "icon-new-task": "assets/icon-new-task.webp",
+    "icon-scheduled": "assets/icon-scheduled.webp",
+    "icon-plugins": "assets/icon-plugins.webp",
+    "icon-sites": "assets/icon-sites.webp",
+    "icon-pull-request": "assets/icon-pull-request.webp",
+    "icon-chat": "assets/icon-chat.webp",
+    "icon-search": "assets/icon-search.webp",
+    "icon-explore": "assets/icon-explore.webp",
+    "icon-build": "assets/icon-build.webp",
+    "icon-review": "assets/icon-review.webp",
+    "icon-fix": "assets/icon-fix.webp",
+    "icon-attach": "assets/icon-attach.webp",
+    "icon-mic": "assets/icon-mic.webp",
+    "icon-model": "assets/icon-model.webp",
+    "icon-settings": "assets/icon-settings.webp",
+    "icon-folder": "assets/icon-folder.webp"
+  }
+}
