@@ -1,5 +1,5 @@
 /* ============================================================
-   Spider Terminal — original urban web-guardian theme for Codex.
+   Spider-Man: A New Day — urban web-guardian theme for Codex.
    All selectors are scoped to html.codex-theme-studio so the
    whole theme is reversible by removing that class + style tag.
    Light mode is a clear rooftop dawn; dark mode is a midnight city watch.
@@ -148,7 +148,7 @@ html.codex-theme-studio .app-shell-left-panel input::placeholder {
 /* ------------------------------------------------ custom product icons */
 
 /* Runtime keeps the native SVG box and hit target, but its paths yield to the
-   Spider Terminal bitmap set. Only the first semantic glyph is tagged,
+   Spider-Man bitmap set. Only the first semantic glyph is tagged,
    so dropdown chevrons and disclosure arrows stay native and usable. */
 html.codex-theme-studio svg[data-cts-glyph] > * {
   opacity: 0 !important;

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "id": "spider-terminal",
+  "id": "spider-man",
   "name": "Spider-Man: A New Day",
   "description": "A personal-use Spider-Man film journey through Queens, self-made growth, three generations, responsibility and a brand-new Manhattan dawn.",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "author": {
     "name": "Euphoria-zy",
     "url": "https://github.com/Euphoria-zy"
@@ -79,15 +79,12 @@
     "guardian-task": "assets/guardian-task-iron-spider-v3.webp",
     "intro": "assets/intro.webp",
     "intro-city": "assets/intro-city-v2.webp",
-    "composer-deck": "assets/composer-deck.webp",
-    "deck-slim": "assets/deck-slim.webp",
     "card-homecoming": "assets/card-homecoming-ferry-v3.webp",
     "card-far-from-home": "assets/card-far-from-home-suit-lab-v3.webp",
     "card-no-way-home": "assets/card-no-way-home-plan-v5.webp",
     "card-brand-new-day": "assets/card-brand-new-day-action-v4.webp",
     "watermark": "assets/watermark.webp",
     "crest": "assets/crest.webp",
-    "pill": "assets/pill.webp",
     "web-shooter": "assets/web-shooter.webp",
     "web-shooter-off": "assets/web-shooter-off.webp",
     "logo-codex": "assets/logo-codex.webp",
